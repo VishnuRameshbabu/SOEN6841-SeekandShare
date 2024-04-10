@@ -8,4 +8,4 @@ Seek&Share is a community driven platform where individuals come together to see
 
 ## Project Presentation Link
 
-**Link :** [https://docs.google.com/presentation/d/1zd6sfRTJJfsdFKyEPh4YqQyalF7EeCq_5xvJQ-8VmfA/edit#slide=id.g2cab38f5a12_0_49] 
+**Link :** [Slide Link] (https://docs.google.com/presentation/d/1zd6sfRTJJfsdFKyEPh4YqQyalF7EeCq_5xvJQ-8VmfA/edit#slide=id.g2cab38f5a12_0_49)
